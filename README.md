@@ -18,6 +18,8 @@ Objective: Teams replicate results using the code associated with their selected
 
 Minimum requirement: Run test/inference codes.
 
+[Video of Test/Inference Codes Running](https://youtu.be/uv9iXKcMmMo)
+
 ### Video Streaming Application 
 Objective: Teams build a video streaming application with a sender and receiver using a real-time networking protocol (e.g., webRTC).
 
