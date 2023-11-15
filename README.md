@@ -28,6 +28,4 @@ Objective: Teams build a video streaming application with a sender and receiver 
 
 
 
-
-
-webRTC: [GitHub Repo](https://github.com/whitphx/streamlit-webrtc)
+webRTC: [GitHub Repo](https://github.com/GetStream/webrtc-android)
