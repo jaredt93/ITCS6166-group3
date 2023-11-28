@@ -56,4 +56,3 @@ This project aims to investigate the role of AI, specifically generative AI and 
 ### References and Resources
 - **WebRTC GitHub Repo**: [GetStream/webrtc-android](https://github.com/GetStream/webrtc-android)
 - **Article Reference**: "Building a Video Chat App: WebRTC in Jetpack Compose" [Reference](https://getstream.io/blog/webrtc-on-android/)
-- 
