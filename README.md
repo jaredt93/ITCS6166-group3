@@ -40,9 +40,9 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 **Overview:** Our project includes a mobile (Folder: Android Mobile App) and desktop application (Folder: Desktop App). Please see below specific execution instructions for each application.
 
-**Demonstration Video:** [Android App Execution](https://youtu.be/uv9iXKcMmMo)
+**Demonstration Video:** [Android App Execution](https://www.youtube.com/watch?v=fI6-y4lLvTM)
 
-[![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)](https://www.youtube.com/watch?v=fXW81C41r4k)
+[![YouTube Video](https://img.youtube.com/vi/fI6-y4lLvTM/0.jpg)](https://www.youtube.com/watch?v=fI6-y4lLvTM)
 
 #### Android Application Execution Instructions:
 - **Setup Instructions**:
