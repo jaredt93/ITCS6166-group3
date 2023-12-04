@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">ITCS 6166 - WebRTC App</string>
+
+  <string name="session_offline">You are Offline!</string>
+  <string name="session_impossible">No Peer Found!</string>
+  <string name="session_ready">Peer Found!</string>
+  <string name="session_creating">Creating Session…</string>
+  <string name="session_active">Session Active</string>
+
+  <string name="button_start_session">Start Session</string>
+  <string name="button_join_session">Join Session</string>
+
+  <string name="button_end_session">End Session</string>
+</resources>
