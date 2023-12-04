@@ -21,7 +21,7 @@ This project aims to investigate the role of AI, specifically generative AI and 
 ### 2. Inference Codes Execution / Replicated Results
 **Objective:** Replicate results using the inference codes from the selected paper.  
 **Minimum Requirement:** Successful execution of test/inference codes.  
-**Demonstration Video:** [Test/Inference Code Execution](https://youtu.be/fXW81C41r4k)
+**Demonstration Video:** [Test/Inference Codes Execution](https://youtu.be/fXW81C41r4k)
 
 [![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)](https://www.youtube.com/watch?v=fXW81C41r4k)
 
@@ -46,17 +46,20 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 #### Android Application Execution Instructions:
 - **Setup Instructions**:
-  1. Clone the project repository
-  3. Ensure Android Studio is installed with the required SDKs and emulators.
-  4. Ensure IntelliJ IDEA is installed.
-  5. Open the server project found in the 'Video-Streaming-App-backend' folder using IntelliJ IDEA.
-  6. Find the 'Application.kt' file and run using the green run button (shown below).
-  <img width="835" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/e8aaa0c6-0871-4148-b1e8-ff1834bf4e7e">
-  8. Open the android project found in the 'Video-Streaming-App' folder using Android Studio.
-  9. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
-  <img width="1089" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/9ef85263-5fc4-40d6-8163-112fc473e939">
-  11. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
-  <img width="1283" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/2d74b4a7-63dc-4125-b028-1a8c777e08eb">
+1. Clone the project repository
+2. Ensure Android Studio is installed with the required SDKs and emulators.
+3. Ensure IntelliJ IDEA is installed.
+4. Open the server project found in the 'Video-Streaming-App-backend' folder using IntelliJ IDEA.
+5. Find the 'Application.kt' file and run using the green run button (shown below),
+6. Open the android project found in the 'Video-Streaming-App' folder using Android Studio.
+7. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
+8. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
+
+<img width="835" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/e8aaa0c6-0871-4148-b1e8-ff1834bf4e7e">
+
+<img width="1089" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/9ef85263-5fc4-40d6-8163-112fc473e939">
+
+<img width="1283" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/2d74b4a7-63dc-4125-b028-1a8c777e08eb">
 
 ------------------------------------------------------------------------------------------------
 
@@ -66,18 +69,17 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 #### Desktop Application Execution Instructions:
 - **Setup Instructions**:
-  1. Clone the project repository
-  3. Ensure Android Studio is installed with the required SDKs and emulators.
-  4. Ensure IntelliJ IDEA is installed.
-  5. Open the server project found in the 'Video-Streaming-App-backend' folder using IntelliJ IDEA.
-  6. Find the 'Application.kt' file and run using the green run button (shown below).
-  <img width="835" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/e8aaa0c6-0871-4148-b1e8-ff1834bf4e7e">
-  8. Open the android project found in the 'Video-Streaming-App' folder using Android Studio.
-  9. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
-  <img width="1089" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/9ef85263-5fc4-40d6-8163-112fc473e939">
-  11. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
-  <img width="1283" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/2d74b4a7-63dc-4125-b028-1a8c777e08eb">
+1. Clone the project repository
+2. Ensure Android Studio is installed with the required SDKs and emulators.
+3. Ensure IntelliJ IDEA is installed.
+4. Open the server project found in the 'Video-Streaming-App-backend' folder using IntelliJ IDEA.
+5. Find the 'Application.kt' file and run using the green run button (shown below).
+6. Open the android project found in the 'Video-Streaming-App' folder using Android Studio.
+7. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
+8. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
 
+
+------------------------------------------------------------------------------------------------
 ### References and Resources
 **Description:** See below references used in building our applications.
 - **WebRTC GitHub Repo**: [GetStream/webrtc-android](https://github.com/GetStream/webrtc-android)
