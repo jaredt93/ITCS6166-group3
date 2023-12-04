@@ -21,7 +21,9 @@ This project aims to investigate the role of AI, specifically generative AI and 
 ### 2. Inference Codes Execution / Replicated Results
 **Objective:** Replicate results using the inference codes from the selected paper.  
 **Minimum Requirement:** Successful execution of test/inference codes.  
-**Demonstration Video:** [Test/Inference Code Execution](https://youtu.be/uv9iXKcMmMo)
+**Demonstration Video:** [Test/Inference Code Execution](https://youtu.be/fXW81C41r4k)
+
+![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)
 
 #### Execution Instructions:
 1. Clone the BoB repository from GitHub. [BoB GitHub Repository](https://github.com/NUStreaming/BoB)
@@ -40,6 +42,8 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 **Demonstration Video:** [Android App Execution](https://youtu.be/uv9iXKcMmMo)
 
+![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)
+
 #### Android Application Execution Instructions:
 - **Setup Instructions**:
   1. Clone the project repository
@@ -57,6 +61,8 @@ This project aims to investigate the role of AI, specifically generative AI and 
 ------------------------------------------------------------------------------------------------
 
 **Demonstration Video:** [Desktop App Execution](https://youtu.be/uv9iXKcMmMo)
+
+![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)
 
 #### Desktop Application Execution Instructions:
 - **Setup Instructions**:
