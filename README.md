@@ -63,9 +63,9 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 ------------------------------------------------------------------------------------------------
 
-**Demonstration Video:** [Desktop App Execution](https://youtu.be/uv9iXKcMmMo)
+**Demonstration Video:** [Desktop App Execution](https://www.youtube.com/watch?v=I88tBa0Dz1g&t=1s)
 
-[![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)](https://www.youtube.com/watch?v=fXW81C41r4k)
+[![YouTube Video](https://img.youtube.com/vi/I88tBa0Dz1g&t=1s/0.jpg)](https://www.youtube.com/watch?v=I88tBa0Dz1g&t=1s)
 
 #### Desktop Application Execution Instructions:
 - **Setup Instructions**:
