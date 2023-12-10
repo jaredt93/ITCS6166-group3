@@ -70,13 +70,15 @@ This project aims to investigate the role of AI, specifically generative AI and 
 #### Desktop Application Execution Instructions:
 - **Setup Instructions**:
 1. Clone the project repository
-2. Ensure Android Studio is installed with the required SDKs and emulators.
-3. Ensure IntelliJ IDEA is installed.
-4. Open the server project found in the 'Video-Streaming-App-backend' folder using IntelliJ IDEA.
-5. Find the 'Application.kt' file and run using the green run button (shown below).
-6. Open the android project found in the 'Video-Streaming-App' folder using Android Studio.
-7. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
-8. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
+2. Make sure you have Node.js and npm installed on your machine.
+3. To run the server - Enter npm run devStart in Terminal
+4. Open other terminal 
+5. Run the peerserver peer js --port 3001
+6. Open your browser and go to http://localhost:3000.
+7. Copy the URL which has a room ID appended at the end
+8. Copy and open it in other window
+   
+<img width="1470" alt="Screenshot 2023-12-10 at 10 47 30 AM" src="https://github.com/jaredt93/ITCS6166-group3/assets/46320920/7de76dc8-45c2-4b31-a75c-1c5f9b1a3c93">
 
 
 ------------------------------------------------------------------------------------------------
